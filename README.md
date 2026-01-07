@@ -13,7 +13,10 @@ A remote RPC call.
 
 How to Submit:-
 Create a Branch: git checkout -b feature-name
+
 Commit Changes: git commit -m "Brief description of work"
+
 Push to GitHub: git push origin feature-name
+
 Open a PR: Go to GitHub and click "New Pull Request". Target your main branch.
 Tag the Instructor: Mention @manoov in the PR comment.
